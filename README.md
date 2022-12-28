@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Full Stack Web Development, Python Programming
 - 💞️ I’m looking to collaborate on any simple Python Project
-- 📫 Heow to reach me:
+- 📫 How to reach me:
       Email: stukabam@yahoo.com
       ig: @jam_femur
 
